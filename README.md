@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=micaelafrigola&label=Profile%20views&color=0e75b6&style=flat" alt="micaelafrigola" /> </p>
 
-- 🔭 Here you can see my first proyect [Quick Drop](https://github.com/valenvwi/QuickDrop)
+- 🔭 Here you can see my first proyect [Quick Drop](https://github.com/micaelafrigola/QuickDrop)
 
 - 🌱 Recently **id finish the Le Wagon web development bootcamp**
 
